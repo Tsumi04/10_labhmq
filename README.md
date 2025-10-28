@@ -111,6 +111,3 @@ MIT License - Xem file LICENSE để biết thêm chi tiết.
 
 ---
 
-**Tạo bởi**: Flutter Development Team  
-**Ngày tạo**: 2025  
-**Trạng thái**: ✅ Hoàn thành và đã kiểm tra
